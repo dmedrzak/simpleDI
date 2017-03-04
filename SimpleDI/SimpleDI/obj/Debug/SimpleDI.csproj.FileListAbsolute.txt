@@ -1,1 +1,6 @@
 C:\Users\Daniel\Source\Repos\SimpleDI\SimpleDI\SimpleDI\bin\Debug\SimpleDI.exe.config
+C:\Users\Daniel\Source\Repos\SimpleDI\SimpleDI\SimpleDI\bin\Debug\SimpleDI.exe
+C:\Users\Daniel\Source\Repos\SimpleDI\SimpleDI\SimpleDI\bin\Debug\SimpleDI.pdb
+C:\Users\Daniel\Source\Repos\SimpleDI\SimpleDI\SimpleDI\obj\Debug\SimpleDI.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\SimpleDI\SimpleDI\SimpleDI\obj\Debug\SimpleDI.exe
+C:\Users\Daniel\Source\Repos\SimpleDI\SimpleDI\SimpleDI\obj\Debug\SimpleDI.pdb

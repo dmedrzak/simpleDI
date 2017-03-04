@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using SimpleDI.Interfaces;
 namespace SimpleDI.FoodTypes
 {
-    class Woda
+    class Woda : IDrink
     {
         public void DrinkType()
         {
